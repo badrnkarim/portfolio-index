@@ -13,7 +13,10 @@ Fastest way to review my US-grade GRC and vendor risk work.
 2) **SDG GRC Portfolio — Multi-Framework Assurance**
    https://github.com/badrnkarim/grc-portfolio-sdg
 
-3) **ISO/IEC 27001 ISMS Portfolio — Audit-Grade Documentation Pack**
+3) **Secure Database Gateway (SDG) Showcase**
+   https://github.com/badrnkarim/sdg-secure-db-gateway-showcase
+
+4) **ISO/IEC 27001 ISMS Portfolio — Audit-Grade Documentation Pack**
    https://github.com/badrnkarim/ISO27001-ISMS-GRC-Portfolio
 
 ---
@@ -23,6 +26,7 @@ Fastest way to review my US-grade GRC and vendor risk work.
 - Privacy-driven vendor governance: purpose limitation, minimization, retention/deletion, DSAR readiness
 - Evidence discipline: EV indexing, validation notes, remediation closure
 - Decision-maker artifacts: executive briefs, approval authority, committee-ready summaries
+- Operational proof and robust evidence of implemented security controls (RBAC, SQL safety, Integrity checks)
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/badrkarim/
